@@ -2,7 +2,7 @@
 This project is a unique take on the classic Snake game, integrating computer vision to control the snake using hand movements. It's built using Python and libraries like OpenCV and cvzone.
 
 ### Prerequisites
-- Python 3.x
+- Python 3
 - OpenCV (cv2)
 - cvzone
 - NumPy
